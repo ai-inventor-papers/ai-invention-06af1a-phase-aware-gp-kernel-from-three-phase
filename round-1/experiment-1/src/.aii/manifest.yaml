@@ -1,0 +1,4 @@
+entries:
+  - path: __pycache__/
+    delete: regenerable
+    source: "python3 -m compileall ."

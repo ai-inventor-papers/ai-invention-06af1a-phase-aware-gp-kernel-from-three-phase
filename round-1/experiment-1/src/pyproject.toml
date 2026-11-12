@@ -1,0 +1,22 @@
+[project]
+name = "phase-aware-gp-experiment"
+version = "0.1.0"
+description = "Phase-Aware GP Kernel Experiment for IEEE European LV Feeder"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy==1.26.4",
+    "pandas==2.2.1",
+    "scipy==1.13.0",
+    "scikit-learn==1.4.2",
+    "pandapower==3.0.1",
+    "networkx==3.3",
+    "matplotlib==3.8.3",
+]
+
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]

@@ -1,0 +1,1579 @@
+{
+  "datasets": [
+    {
+      "dataset": "ieee_european_lv_seed0_train10",
+      "examples": [
+        {
+          "input": "load_injections_seed0_train10_test0",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test0",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test1",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test1",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test2",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test2",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test3",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test3",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test4",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test4",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test5",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test5",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test6",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test6",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test7",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test7",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test8",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test8",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        },
+        {
+          "input": "load_injections_seed0_train10_test9",
+          "output": "voltage_magnitudes_far_end_seed0_train10_test9",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188379",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186136"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed0_train20",
+      "examples": [
+        {
+          "input": "load_injections_seed0_train20_test0",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test0",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test1",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test1",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test2",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test2",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test3",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test3",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test4",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test4",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test5",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test5",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test6",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test6",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test7",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test7",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test8",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test8",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        },
+        {
+          "input": "load_injections_seed0_train20_test9",
+          "output": "voltage_magnitudes_far_end_seed0_train20_test9",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183064",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178167"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed0_train40",
+      "examples": [
+        {
+          "input": "load_injections_seed0_train40_test0",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test0",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test1",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test1",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test2",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test2",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test3",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test3",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test4",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test4",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test5",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test5",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test6",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test6",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test7",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test7",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test8",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test8",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        },
+        {
+          "input": "load_injections_seed0_train40_test9",
+          "output": "voltage_magnitudes_far_end_seed0_train40_test9",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181109",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170499"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed0_train80",
+      "examples": [
+        {
+          "input": "load_injections_seed0_train80_test0",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test0",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test1",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test1",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test2",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test2",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test3",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test3",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test4",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test4",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test5",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test5",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test6",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test6",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test7",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test7",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test8",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test8",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        },
+        {
+          "input": "load_injections_seed0_train80_test9",
+          "output": "voltage_magnitudes_far_end_seed0_train80_test9",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168826",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157739"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed0_train160",
+      "examples": [
+        {
+          "input": "load_injections_seed0_train160_test0",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test0",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test1",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test1",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test2",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test2",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test3",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test3",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test4",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test4",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test5",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test5",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test6",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test6",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test7",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test7",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test8",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test8",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        },
+        {
+          "input": "load_injections_seed0_train160_test9",
+          "output": "voltage_magnitudes_far_end_seed0_train160_test9",
+          "metadata_fold": 0,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.150116",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129976"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed1_train10",
+      "examples": [
+        {
+          "input": "load_injections_seed1_train10_test0",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test0",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test1",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test1",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test2",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test2",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test3",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test3",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test4",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test4",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test5",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test5",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test6",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test6",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test7",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test7",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test8",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test8",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        },
+        {
+          "input": "load_injections_seed1_train10_test9",
+          "output": "voltage_magnitudes_far_end_seed1_train10_test9",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188696",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186489"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed1_train20",
+      "examples": [
+        {
+          "input": "load_injections_seed1_train20_test0",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test0",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test1",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test1",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test2",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test2",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test3",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test3",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test4",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test4",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test5",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test5",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test6",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test6",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test7",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test7",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test8",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test8",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        },
+        {
+          "input": "load_injections_seed1_train20_test9",
+          "output": "voltage_magnitudes_far_end_seed1_train20_test9",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.183911",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.178040"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed1_train40",
+      "examples": [
+        {
+          "input": "load_injections_seed1_train40_test0",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test0",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test1",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test1",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test2",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test2",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test3",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test3",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test4",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test4",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test5",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test5",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test6",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test6",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test7",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test7",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test8",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test8",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        },
+        {
+          "input": "load_injections_seed1_train40_test9",
+          "output": "voltage_magnitudes_far_end_seed1_train40_test9",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.181472",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.170102"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed1_train80",
+      "examples": [
+        {
+          "input": "load_injections_seed1_train80_test0",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test0",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test1",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test1",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test2",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test2",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test3",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test3",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test4",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test4",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test5",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test5",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test6",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test6",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test7",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test7",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test8",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test8",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        },
+        {
+          "input": "load_injections_seed1_train80_test9",
+          "output": "voltage_magnitudes_far_end_seed1_train80_test9",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.168371",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.157045"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed1_train160",
+      "examples": [
+        {
+          "input": "load_injections_seed1_train160_test0",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test0",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test1",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test1",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test2",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test2",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test3",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test3",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test4",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test4",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test5",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test5",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test6",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test6",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test7",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test7",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test8",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test8",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        },
+        {
+          "input": "load_injections_seed1_train160_test9",
+          "output": "voltage_magnitudes_far_end_seed1_train160_test9",
+          "metadata_fold": 1,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.149468",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.130390"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed2_train10",
+      "examples": [
+        {
+          "input": "load_injections_seed2_train10_test0",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test0",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test1",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test1",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test2",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test2",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test3",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test3",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test4",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test4",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test5",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test5",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test6",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test6",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test7",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test7",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test8",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test8",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        },
+        {
+          "input": "load_injections_seed2_train10_test9",
+          "output": "voltage_magnitudes_far_end_seed2_train10_test9",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.188601",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.186182"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed2_train20",
+      "examples": [
+        {
+          "input": "load_injections_seed2_train20_test0",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test0",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test1",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test1",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test2",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test2",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test3",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test3",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test4",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test4",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test5",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test5",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test6",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test6",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test7",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test7",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test8",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test8",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        },
+        {
+          "input": "load_injections_seed2_train20_test9",
+          "output": "voltage_magnitudes_far_end_seed2_train20_test9",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.182548",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.177732"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed2_train40",
+      "examples": [
+        {
+          "input": "load_injections_seed2_train40_test0",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test0",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test1",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test1",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test2",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test2",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test3",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test3",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test4",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test4",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test5",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test5",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test6",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test6",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test7",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test7",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test8",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test8",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        },
+        {
+          "input": "load_injections_seed2_train40_test9",
+          "output": "voltage_magnitudes_far_end_seed2_train40_test9",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.180683",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.169746"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed2_train80",
+      "examples": [
+        {
+          "input": "load_injections_seed2_train80_test0",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test0",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test1",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test1",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test2",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test2",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test3",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test3",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test4",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test4",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test5",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test5",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test6",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test6",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test7",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test7",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test8",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test8",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        },
+        {
+          "input": "load_injections_seed2_train80_test9",
+          "output": "voltage_magnitudes_far_end_seed2_train80_test9",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.167692",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.156439"
+        }
+      ]
+    },
+    {
+      "dataset": "ieee_european_lv_seed2_train160",
+      "examples": [
+        {
+          "input": "load_injections_seed2_train160_test0",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test0",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test1",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test1",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test2",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test2",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test3",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test3",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test4",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test4",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test5",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test5",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test6",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test6",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test7",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test7",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test8",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test8",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        },
+        {
+          "input": "load_injections_seed2_train160_test9",
+          "output": "voltage_magnitudes_far_end_seed2_train160_test9",
+          "metadata_fold": 2,
+          "predict_phase_aware": "failed",
+          "predict_rbf": "rmse=0.148935",
+          "predict_graph_laplacian": "failed",
+          "predict_shuffled_phase": "failed",
+          "predict_lindistflow": "rmse=0.129701"
+        }
+      ]
+    }
+  ]
+}
