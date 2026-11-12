@@ -1,0 +1,10 @@
+README.md
+data.py
+prepare_candidates.py
+pyproject.toml
+sanity_check_baseline.py
+gen_art_dataset_1.egg-info/PKG-INFO
+gen_art_dataset_1.egg-info/SOURCES.txt
+gen_art_dataset_1.egg-info/dependency_links.txt
+gen_art_dataset_1.egg-info/requires.txt
+gen_art_dataset_1.egg-info/top_level.txt

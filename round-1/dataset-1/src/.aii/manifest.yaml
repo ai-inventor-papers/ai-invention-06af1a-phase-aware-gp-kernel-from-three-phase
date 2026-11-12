@@ -1,0 +1,5 @@
+entries:
+  - path: .venv/
+    delete: regenerable
+    source: "uv venv .venv --python=3.12 && uv pip install --python .venv/bin/python pandapower scikit-learn loguru psutil jsonschema networkx"
+

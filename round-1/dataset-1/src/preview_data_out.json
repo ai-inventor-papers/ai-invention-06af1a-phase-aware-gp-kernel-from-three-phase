@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "source_dir": "./temp/datasets",
+    "selection_rule": "sorted by summary_stats.mean_far_end_voltage_std descending",
+    "keep_top_n": 1,
+    "n_candidate_files": 3,
+    "dataset_names": [
+      "ieee_european_lv_asymmetric__on_peak_566_correlated"
+    ],
+    "source_files": [
+      "./temp/datasets/ieee_european_lv_asymmetric__on_peak_566_correlated.json"
+    ]
+  },
+  "datasets": [
+    {
+      "dataset": "ieee_european_lv_asymmetric__on_peak_566_correlated",
+      "examples": [
+        {
+          "input": "{\"injection_vector_pq\":[0.0005523025860120586,0.00018153308189990523,4.941044298727398e-05,1.6240427530681612e-08,0.00011501540981396706,3.780373679238408e-05,0.00020503310511806838,6.739112406042326e...",
+          "output": "{\"vm_a_pu\":[1.0500007420642952,1.049489130992306,1.0493316760422797,1.049315171475377,1.0492997096986183,1.0492862295738703,1.049264993697629,1.0478206974240674,1.0477560913649038,1.0477023238830656,1...",
+          "metadata_fold": 0,
+          "metadata_seed": 0,
+          "metadata_scenario_id": 0,
+          "metadata_row_index": 0,
+          "metadata_task_type": "regression",
+          "metadata_n_targets": 2721,
+          "metadata_feature_names": [
+            "load_0_p_mw",
+            "load_0_q_mvar",
+            "load_1_p_mw"
+          ]
+        },
+        {
+          "input": "{\"injection_vector_pq\":[0.0006760192780448892,0.00022219679225720355,3.5578790639487986e-05,1.169418317416661e-08,0.00010233396144278582,3.363554631124973e-05,0.00021691689254771826,7.129713617743266e...",
+          "output": "{\"vm_a_pu\":[1.0500009847272473,1.0494696683596487,1.0493019137887702,1.0492843302094517,1.049267857698199,1.0492534964612987,1.0492308726824784,1.047692629099741,1.047623841275403,1.0475665949344655,1...",
+          "metadata_fold": 0,
+          "metadata_seed": 0,
+          "metadata_scenario_id": 1,
+          "metadata_row_index": 1,
+          "metadata_task_type": "regression",
+          "metadata_n_targets": 2721,
+          "metadata_feature_names": [
+            "load_0_p_mw",
+            "load_0_q_mvar",
+            "load_1_p_mw"
+          ]
+        },
+        {
+          "input": "{\"injection_vector_pq\":[0.0005763805393468011,0.00018944712247367593,4.875168914302808e-05,1.602390560897391e-08,9.446603335406564e-05,3.104948342586354e-05,0.0002959912591230318,9.72876241272088e-05,...",
+          "output": "{\"vm_a_pu\":[1.0500003881409359,1.049407915168256,1.0492383609507407,1.0492205873854055,1.0492039366600816,1.049189419866897,1.0491665506871846,1.047610620248197,1.047540995169528,1.0474830490137224,1....",
+          "metadata_fold": 0,
+          "metadata_seed": 0,
+          "metadata_scenario_id": 2,
+          "metadata_row_index": 2,
+          "metadata_task_type": "regression",
+          "metadata_n_targets": 2721,
+          "metadata_feature_names": [
+            "load_0_p_mw",
+            "load_0_q_mvar",
+            "load_1_p_mw"
+          ]
+        }
+      ]
+    }
+  ]
+}
